@@ -1,0 +1,23 @@
+{
+  "name": "conswordguess",
+  "version": "1.0.0",
+  "description": "Constructor Word Guess CLI game.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/delzerbear/ConsWordGuess.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/delzerbear/ConsWordGuess/issues"
+  },
+  "homepage": "https://github.com/delzerbear/ConsWordGuess#readme",
+  "dependencies": {
+    "inquirer": "^6.4.1",
+    "prompt": "^1.0.0"
+  }
+}
